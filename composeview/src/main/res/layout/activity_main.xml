@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.example.hq.composeview.TitleLayout
+        android:id="@+id/titleLayout"
+        android:padding="10dp"
+        android:background="@color/material_deep_teal_500"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp">
+    </com.example.hq.composeview.TitleLayout>
+     <Button
+         android:id="@+id/bt1"
+         android:text="添加返回图标"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bt2"
+        android:text="搜索图标"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bt3"
+        android:text="设置标题"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
