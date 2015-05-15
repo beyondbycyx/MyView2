@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/composeview" />
+            <option value="$PROJECT_DIR$/drawabledemo" />
+            <option value="$PROJECT_DIR$/refactorview" />
           </set>
         </option>
       </GradleProjectSettings>

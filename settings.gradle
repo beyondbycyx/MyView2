@@ -1,1 +1,1 @@
-include ':app', ':composeview'
+include ':app', ':composeview', ':refactorview', ':drawabledemo'

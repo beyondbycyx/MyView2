@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/MyView2.iml" filepath="$PROJECT_DIR$/MyView2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/composeview/composeview.iml" filepath="$PROJECT_DIR$/composeview/composeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawabledemo/drawabledemo.iml" filepath="$PROJECT_DIR$/drawabledemo/drawabledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactorview/refactorview.iml" filepath="$PROJECT_DIR$/refactorview/refactorview.iml" />
     </modules>
   </component>
 </project>
